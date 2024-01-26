@@ -13,8 +13,8 @@ println("Hello, World!")
 ```java
 System.out.println("Hello, World!")
 ```
-<img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-```js
+<img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&style=flat-square"/></a>
+```ts
 console.log("Hello, World!");
 ```
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
